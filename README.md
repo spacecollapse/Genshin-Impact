@@ -8,4 +8,4 @@
 
 
 
-Скачать можно здесь - https://github.com/defoxxx/Genshin-Impact/releases/download/cc/123.zip
+Скачать можно здесь - не работает, ждите оповещение в дс канале
