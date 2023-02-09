@@ -13,6 +13,6 @@
 
 НЕ ИСПОЛЬЗУЙТЕ РИСКОВАННЫЕ ФУНКЦИИ В ЧИТЕ (ПОДПИСАНЫ)
 
-Скачать можно здесь - https://github.com/defoxxx/Genshin-Impact/releases/download/cc/genshin.cheat.zip
+Скачать можно здесь - https://github.com/defoxxx/Genshin-Impact/releases/download/cc/genshin_new.rar
 
 Меню открывается на инсерт
