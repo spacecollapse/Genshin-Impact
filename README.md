@@ -15,3 +15,16 @@
 Как убрать негров - https://youtu.be/Kybd8txDvM4
 
 Я ебал записывать видео по этому смотрите у этого чела, чит можно не перекачивать а делать эти действия с уже скачанным отсюда читом
+
+
+убирание негров с помощью  cheat engine
+
+
+Step 1: Open the damn game using the injector.
+Step 2: CheatEngine go brrr (Open CheatEngine)
+Step 3: Attach Genshin Process to CheatEngine.
+Step 4: Press Add Address Manually.
+Step 5: Put `mhyprot.dll+377050` and press ok
+Step 6: Repeat steps 4 and 5 but put `mhyprot.dll+377064` as the address.
+Step 7: Double click on each address while hovering the mouse over the value section and change the values from 0 to 7 for both.
+Step 8: Voila!
