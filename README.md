@@ -1,7 +1,7 @@
 # Genshin-Impact
 
 
-Чит Minty - https
+Чит Minty - http
 
 
 
