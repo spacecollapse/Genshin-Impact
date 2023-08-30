@@ -4,7 +4,7 @@
 
 
 
-Чит открывается на F12 по всем вопрсоам писать мне в дискорд
+Чит открывается на F12 по всем вопросам писать мне в дискорд
 
 Скачать - https://github.com/spacecollapse/Genshin-Impact/releases/download/cc/minty1.38.1.zip
 
