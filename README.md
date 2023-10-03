@@ -1,12 +1,3 @@
-# Minty
-
-![image](https://github.com/spacecollapse/Genshin-Impact/assets/53594431/84cf9554-12cf-4858-824f-d65914c4b3ae)
-
-
-
-Чит открывается на F12 по всем вопросам писать мне в дискорд
-
-Скачать - https://github.com/spacecollapse/Genshin-Impact/releases/download/cc/minty1.38.1.zip
 
 # Korepi
 
