@@ -1,6 +1,15 @@
-Увы но читов пока временно не будет потому что они все хуйня 
 
-Админ и создатель временно не делает никакой активности на сервере и на канале, нам очень жаль
+![image](https://github.com/spacecollapse/Genshin-Impact/assets/53594431/452c3635-ee1d-4279-84fb-3cda13f70f0a)
 
 
-пак автотп - https://github.com/spacecollapse/Genshin-Impact/releases/download/cc/UGIMOKO_AUTOTP_NEW_2.0.1.rar
+меню открывается на INSERT
+
+Minty скачать - https://github.com/spacecollapse/Genshin-Impact/releases/download/cc/Minty.zip
+
+# Если у вас крашит при запуске (геншин залагивает и не отмирает) или другие проблемы
+
+
+![image](https://github.com/spacecollapse/Genshin-Impact/assets/53594431/c6f24d12-32ec-4484-9d67-6a9328a38c7b)
+
+пкм по лаунчеру, переходим в совместимость и там выбираем совместимость с windows 7, заходим в игру 
+
