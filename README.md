@@ -4,7 +4,9 @@
 
 меню открывается на INSERT
 
-Minty скачать - https://github.com/spacecollapse/Genshin-Impact/releases/download/cc/Minty.zip
+shika скачать - https://github.com/spacecollapse/Genshin-Impact/releases/download/cc/shika.zip
+
+Этот тот-же минти, просто с другим названием, чит залит без кфг
 
 # Если у вас крашит при запуске (геншин залагивает и не отмирает) или другие проблемы
 
